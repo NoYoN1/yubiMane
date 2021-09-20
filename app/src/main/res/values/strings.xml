@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Yubi</string>
+    <string name="round">1</string>
+    <string name="winner">WINNER</string>
+    <string name="point">POINT</string>
+    <string name="p1point">0</string>
+    <string name="p2point">0</string>
+    <string name="p_vs_p">Player VS Player</string>
+    <string name="p_vs_c">Player VS Computer</string>
+    <string name="other">ルール</string>
+    <string name="yubigame">YUBI マネ</string>
+    <string name="roundText">ROUND</string>
+
+
+</resources>
