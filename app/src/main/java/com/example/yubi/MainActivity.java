@@ -1,3 +1,7 @@
+// 2021-09-15
+// TUMUR UILS
+// Japan
+// ECC senmon gaggo
 package com.example.yubi;
 
 import androidx.appcompat.app.AppCompatActivity;
